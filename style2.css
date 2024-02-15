@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Inter:wght@100..900&family=Poppins:wght@400;500&display=swap');
+
+
+
+        * {
+            font-family: 'Poppins';
+        }
+
+        nav{
+            background-color: #5697f8;
+        }
+
+        .nav-link:hover::after{
+            content: '';
+            display: block;
+            border-bottom: 3px solid white;
+            margin: auto;
+            padding-bottom: 3px;
+            margin-bottom: -8px;
+            
+        }
+
+        .warna{
+            background-color: #F8CD12;
+            border-radius: 10px;
+            margin-right: 40px;
+        }
+
+        .container-fluid{
+            margin-left: 10px;
+        }
+
+        .navbar-brand{
+            margin-left: 40px;
+        }
+
+        .right{
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        .right2{
+            margin-left: 200px;
+        }
+
+        .m0{
+            margin-left: 40px;
+        }
+
+        .m1{
+            margin-left: 10px;
+        }
+
+        .m2{
+            margin-left: 10px;
+        }
+
+        .m3{
+            margin-left: 10px;
+        }
+
+        .m4{
+            margin-left: 10px;
+        }
+
+        .bg{
+            background-color: #5697f8;
+        }
+
+        .slide{
+            text-align: center;
+        }
+
+        .center{
+            margin-left: 40px;
+        }
+
+        h1,h3,p{
+            
+            color: #155f7c;
+            font-family: Inter;
+            
+        }
+
+        .kiri{
+            text-align: left;
+        }
+
+        .pinggir{
+            margin-left: 270px;
+            margin-right: 270px;
+        }
+
+        .inter{
+            font-family: Inter;
+            padding-left: 50px;
+            padding-right: 90px;
+        }
+
+        .inter2{
+            padding-left: 50px;
+        }
+
+        .bg2{
+            margin-top: 100px;
+        }
+
+        .btn-outline{
+            border-radius: 10px;
+            border-color: white;
+        }
+
+        .opsi{
+            font-family: Inter;
+            font-size: 13px;
+            margin-left: 50px;
+            margin-right: 50px;
+        }
+
+        .opsi2{
+            font-family: Inter;
+            font-size: 13px;
+            margin-left: 50px;
+            margin-right: 50px;
+        }
+        
